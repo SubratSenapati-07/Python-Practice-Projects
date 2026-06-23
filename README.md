@@ -22,6 +22,6 @@ This repository contains my Python learning journey and practice programs.
 - Other Python Mini Projects
 
 ## Goal
-This repository represents my Python learning and practice progress as a B.Tech CSE student interested in AI/ML.
+This repository represents my Python learning and practice progress as a B.Tech CSE student interested in Python devloper with AI skills.
 
 Author: Subrat Senapati
